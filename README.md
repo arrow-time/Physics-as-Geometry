@@ -33,7 +33,7 @@ Geometry is not a metaphor for quantum mechanics; it is the very structure from 
 ### 5. Connes and Noncommutative Geometry
 
 Alain Connes 
-The French mathematician Alain Connes developed noncommutative geometry in the 1980s, building directly on Clifford algebra. 
+The French mathematician Alain Connes developed noncommutative geometry in the 1980s. 
 
 ### 6. Where Does Modern Fiber Bundle Theory Stand?
 
