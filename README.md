@@ -6,6 +6,7 @@ Introduction
 The idea that physics is geometry has taken two distinct paths in the history of physics. One treats geometry as an abstract mathematical structure in Hilbert space or phase space—a convenient language for describing observations. The other, which I shall call spatial geometric realism, holds that geometry is not a metaphor but a literal description of physical space itself: space is the primary ontological entity, and all physical phenomena are manifestations of its structure and dynamics. This essay traces the realist tradition from its 19th-century origins to its modern developments.
 
 1. The 19th-Century Foundations
+
 1.1 William Kingdon Clifford (1870s)
 In 1876, William Kingdon Clifford explicitly stated that matter and energy are merely different types of curvature of space. He was the first to articulate, with clarity, the program that physics reduces to the geometry of space—not as an analogy, but as an ontological claim about the universe we inhabit. For Clifford, space itself was the fundamental substance, and what we call "particles" and "forces" were simply geometric features of this real, deformable medium.
 
