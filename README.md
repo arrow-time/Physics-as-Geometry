@@ -64,4 +64,4 @@ From Clifford to Maxwell, Einstein to Wheeler, Hestenes to Connes, this line of 
 
 The spatial geometric realist tradition in physics is not a relic of 19th-century mechanical philosophy. It is a living research program that has evolved through general relativity, quantum mechanics, and the Standard Model. Clifford planted the flag; Maxwell sketched the early picture; Einstein gave it power; Wheeler gave it ambition; Hestenes gave it a modern algebraic language; and Connes extended it to the noncommutative domain. Together, they form a coherent intellectual lineage that offers the most ontologically parsimonious and physically intuitive foundation for a unified description of nature.
 
-If space is real, then physics must be geometry and geometry must be physics.
+# If space is real, then physics must be geometry.
