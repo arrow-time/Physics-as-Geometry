@@ -20,19 +20,19 @@ Einstein's general theory of relativity completed the first major synthesis of o
 
 ### 3. Wheeler's Geometrodynamics
 
-John Archibald Wheeler (1950s–1960s)
+John Archibald Wheeler 
 Wheeler took Clifford's program to its logical extreme. In his vision of geometrodynamics, he sought to explain all of physics—particles, fields, charges, and even quantum phenomena—as topological and geometric structures of spacetime itself. "Mass without mass" and "charge without charge" were his slogans: particles were to be understood as wormholes, electric charge as trapped flux lines in multiply connected space. Wheeler's program was ambitious, radical, and deeply faithful to the Cliffordian intuition that everything is geometry. While geometrodynamics did not succeed in its full form, it kept the realist tradition alive and inspired subsequent generations.
 
 ### 4. Hestenes and Geometric Algebra
    
-David Hestenes (1960s–present)
+David Hestenes 
 David Hestenes, a physicist  made a foundational contribution to the realist program by reintroducing Clifford algebra into the mainstream language of physics, under the name Geometric Algebra. 
 
 Geometry is not a metaphor for quantum mechanics; it is the very structure from which quantum mechanics emerges.
 
 ### 5. Connes and Noncommutative Geometry
 
-Alain Connes (1980s–present)
+Alain Connes 
 The French mathematician Alain Connes developed noncommutative geometry in the 1980s, building directly on Clifford algebra. 
 
 ### 6. Where Does Modern Fiber Bundle Theory Stand?
